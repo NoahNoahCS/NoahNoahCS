@@ -6,7 +6,7 @@ High-performer with a passion for turning complex data into actionable insights 
 * **Data Manipulation & Analysis:**
   * Tableau, SQL, Python (NumPy,   Pandas), R, Statistics, Hypothesis Testing, A/B Testing, Data Cleaning, Data Validation
 * **Data Visualization:**
-  *Matplotlib, Seaborn, Plotly, Bokeh, Tableau
+  * Matplotlib, Seaborn, Plotly, Bokeh, Tableau
 * **Machine Learning & Modeling:**
   * Scikit-Learn, PyTorch, TensorFlow, Keras, Natural Language Processing, Model Calibration, Performance Evaluation
 * **Big Data:**
