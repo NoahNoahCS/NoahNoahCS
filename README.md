@@ -1,10 +1,9 @@
-## Welcome to Noah's Github :) 
+## 
 
-I'm a New York city based data scientist. 
+High-performer with a passion for turning complex data into actionable insights and innovative solutions. Experienced in machine learning, statistical modeling, and data visualization to drive business decisions. Adept at working cross-functionally to uncover trends, optimize performance, and solve real-world problems. 
 
-Formerly a classical musician, a successful battle with cancer led me to a career change. 
-
-How to reach me: 
+**How to reach me**
+- LinkedIn: https://www.linkedin.com/in/noah-strevell/
 - Email: noah@chasworth.com
 
 
