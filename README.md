@@ -1,4 +1,4 @@
-## 
+## Welcome to Noah Strevell's GitHub 
 
 High-performer with a passion for turning complex data into actionable insights and innovative solutions. Experienced in machine learning, statistical modeling, and data visualization to drive business decisions. Adept at working cross-functionally to uncover trends, optimize performance, and solve real-world problems. 
 
