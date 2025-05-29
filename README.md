@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to Noah's Github :) 
+
+I'm a New York city based data scientist. 
+
+Formerly a classical musician, a successful battle with cancer led me to a career change. 
 
 How to reach me: 
 - Email: noah@chasworth.com
